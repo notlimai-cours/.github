@@ -1,8 +1,8 @@
-# notlimai-courses
+# notlimai-cours
 
-![notlimai-courses](https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif)
+![notlimai-cours](https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif)
 
-Bienvenue sur **notlimai-courses** ! Nous fournissons des cours pratiques et des ressources pour le développement web et logiciel. Notre mission est de rendre l'apprentissage accessible à tous, avec des tutoriels détaillés et des exemples de code pour aider les développeurs et étudiants à améliorer leurs compétences techniques.
+Bienvenue sur **notlimai-cours** ! Nous fournissons des cours pratiques et des ressources pour le développement web et logiciel. Notre mission est de rendre l'apprentissage accessible à tous, avec des tutoriels détaillés et des exemples de code pour aider les développeurs et étudiants à améliorer leurs compétences techniques.
 
 ## 🌟 Ce que nous offrons :
 - 🎓 Cours pratiques sur diverses technologies web et de programmation
@@ -28,4 +28,4 @@ Nous accueillons toutes les contributions, que ce soit des suggestions, des corr
 
 ---
 
-**notlimai-courses** – Apprendre ensemble pour aller plus loin !
+**notlimai-cours** – Apprendre ensemble pour aller plus loin !
